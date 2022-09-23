@@ -1,0 +1,51 @@
+ul {
+  list-style-type: none;
+  border: 30px;
+  padding: 10px;
+}
+
+li {
+  float: left;
+  width: 250px;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: left;
+  text-decoration: none;
+  padding: 5px;
+}
+
+li a:active {
+  color: red;
+}
+
+.myWrapper {
+  padding: 10px;
+  position: relative;
+}
+.myTable {
+  display: table;
+  border-spacing: 8px;
+  width: 500px;
+}
+
+.myTable tr td {
+  border-radius: 5px;
+  margin: 10px;
+}
+
+#right {
+  float: right;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.vl {
+  border-left: 1px solid rgb(0, 0, 0);
+  height:590px;
+}

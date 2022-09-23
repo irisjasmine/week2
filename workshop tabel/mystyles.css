@@ -1,0 +1,29 @@
+.myWrapper {
+  padding: 30px;
+  background-color: #f5f5f5;
+  position: absolute;
+}
+
+.myTable {
+  display: table;
+  border-spacing: 8px;
+  width: 500px;
+}
+
+.myTable tr td {
+  border-radius: 5px;
+  padding: 20px;
+  margin: 40px;
+}
+
+.orangeRow {
+  background-color: #f7d668;
+}
+
+.turquoiseRow {
+  background-color: #28aea3;
+}
+
+.blueRow {
+  background-color: #166298;
+}
